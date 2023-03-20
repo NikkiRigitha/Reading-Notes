@@ -5,4 +5,5 @@ Hiiiii, my name is Nicole . I went from wanting to work in finaace to finding my
 - A balanced healthy diet and enough rest
 - Affirmations all day every day!!
 - Self relfct, most imporntly be your biggest critic  
-{what is a Growth Mindset to me.... It is staying opening minded and optatmsitc towards my goals. It is the willingness to change and adapt to better my skills and myself.}
+{what is a Growth Mindset to me.... It is staying opening minded and optatmsitc towards my goals. 
+{It is the willingness to change and adapt to better my skills and myself.
