@@ -27,7 +27,29 @@ The second of it *Italic*:
 *....* E.g *Italic*  
 You can also apply bold and italic by:  
 *** ... *** E.g ***Both***  
-* Nikki
+
+Lists:  
+There are 3 types of lists you can create.
+Ordered list;to create one , you must add a new line for each iteam. They do not need to be in order, howvever **must start with one**
+Example:
+1. Example1
+2. Example1
+3.Example1
+
+1.Example2
+1.Example2
+1.Example2  
+
+Unordered Lists; There is more than one form of unordered lists.
+The first one is :
+- Example1
+- Example1
+To make a bullpoint list:
+Use (*) at the start of the line
+* Example2
+* Example2
+
+
 
 
 
