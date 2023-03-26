@@ -13,9 +13,9 @@ And much more. It is also portable, meaning files that have used the Markdown fo
 Headings:
 There are total of 6 headings. Ranging from largest to smallest.All headings being with * . Below you can see how Headings are formatted:  
 1 *Heading1   
-2 **Heading2   
+2 **Heading2**   
 3 ***Heading3  
 4 ****Heading4  
 5 *****Heading5  
-6 ******Heading6 **
+6 ******Heading6 
 
