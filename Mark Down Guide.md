@@ -8,8 +8,13 @@ Markdown is very versatile and popular, many websites including *GitHub* support
 -Doucuments
 -Email Messages  
 And much more. It is also portable, meaning files that have used the Markdown formatted text can be open any application virtually. Making Markdown futureproof!  
-****Getting started with the basics****
+****Getting started with the basics***  
 *Symbols*
-
-
+Headings:
+There are total of 6 headings. Ranging from largest to smallest.All headings being with * . Below you can see how Headings  formatted:
+1.*Heading1 
+2.**Heading2  
+3 ***Heading3  
+4 ****Heading4  
+5 
 
