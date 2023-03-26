@@ -45,9 +45,13 @@ The first one is :
 - Example1
 - Example1
 To make a bullpoint list:
-Use (*) at the start of the line
-* Example2
-* Example2
+Use (*) , (-) or (+) at the start of the line  
+* Example1  
+* Example1    
+- Example2  
+- Example2  
++ Example3  
++ Example3  
 
 
 
