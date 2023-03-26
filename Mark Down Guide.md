@@ -30,7 +30,7 @@ You can also apply bold and italic by:
 
 Lists:  
 There are 3 types of lists you can create.
-Ordered list;to create one , you must add a new line for each iteam. They do not need to be in order, howvever **must start with one**
+Ordered list;to create one , you must add a new line for each iteam. They do not need to be in order, howvever **must start with one/1**
 Example:
 1. Example1
 2. Example1
@@ -44,14 +44,20 @@ Unordered Lists; There is more than one form of unordered lists.
 The first one is :
 - Example1
 - Example1
-To make a bullpoint list:
-Use (*) , (-) or (+) at the start of the line  
-* Example1  
+To make a bullpoint list:  
+Use (*) , (-) or (+) at the start of the line    
+* Example1    
 * Example1    
 - Example2  
 - Example2  
 + Example3  
 + Example3  
+
+Now if your feeling extra adventourous, you can have fun creating a link .
+To creat a link, follow below:
+The Unltimate beginners guide to Markdown
+First step is to enclose the text in brackets 
+[ The Unltimate beginners guide to Markdown ]
 
 
 
