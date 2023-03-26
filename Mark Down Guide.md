@@ -60,7 +60,17 @@ First step is to enclose the text in brackets
 **[** The Unltimate beginners guide to Markdown **]**
 Then immdeaitly followed by the URL in brackets. 
 
-[The Unltimate beginners guide to Markdown]
+[The Unltimate beginners guide to Markdown]**(** https://github.com/NikkiRigitha/Reading-Notes/blob/main/Mark%20Down%20Guide.md **)**
+
+***The first brackest used are [], followed by ().***
+
+
+[The Unltimate beginners guide to Markdown](https://github.com/NikkiRigitha/Reading-Notes/blob/main/Mark%20Down%20Guide.md)
+
+Noww you give it a try and see how simple it is!!!
+
+
+
 
 
 
