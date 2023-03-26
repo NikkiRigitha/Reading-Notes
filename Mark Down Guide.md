@@ -57,7 +57,10 @@ Now if your feeling extra adventourous, you can have fun creating a link .
 To creat a link, follow below:
 The Unltimate beginners guide to Markdown
 First step is to enclose the text in brackets 
-[ The Unltimate beginners guide to Markdown ]
+**[** The Unltimate beginners guide to Markdown **]**
+Then immdeaitly followed by the URL in brackets. 
+
+[The Unltimate beginners guide to Markdown]
 
 
 
