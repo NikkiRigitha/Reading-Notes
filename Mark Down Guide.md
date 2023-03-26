@@ -19,9 +19,16 @@ There are total of 6 headings. Ranging from largest to smallest.All headings bei
 5 *****Heading5  
 6 ******Heading6 
 
-Emphasizing Text:
-There are two forms if text emphaisi you can use in Markdown.   
-The first one is *Bold text*. See below for formatting :  
-** .... ** e.g  **Bold** 
+Emphasizing Text:  
+There are two forms of Emphasis you can use in Markdown.     
+The first one is *Bold text*:  
+** .... ** E.g  **Bold**   
+The second of it *Italic*:
+*....* E.g *Italic*  
+You can also apply bold and italic by:  
+*** ... *** E.g ***Both***  
+* Nikki
+
+
 
 
