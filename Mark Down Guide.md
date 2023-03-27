@@ -67,7 +67,7 @@ The Unltimate beginners [guide]  to Markdown**(** https://github.com/NikkiRigith
 
 The Unltimate beginners![guide  to Markdown](https://github.com/NikkiRigitha/Reading-Notes/blob/main/Mark%20Down%20Guide.md)
 
-Noww you give it a try and see how simple it is!!!
+Now you give it a try and see how simple it is!!!
 
 
 
